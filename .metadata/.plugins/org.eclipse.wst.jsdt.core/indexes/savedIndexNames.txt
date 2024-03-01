@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\U6074793\OneDrive - Clarivate Analytics\Desktop\java\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3956798599.index
+1379427160.index
+1291170749.index
+1477951642.index
+3179979805.index
+3699177399.index
+1051816779.index
